@@ -1,0 +1,8 @@
+langchain 
+langchain-core 
+langchain-openai
+supabase
+django 
+djangorestframework
+python-dotenv
+django-cors-headers
